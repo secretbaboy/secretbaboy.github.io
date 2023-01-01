@@ -19,12 +19,12 @@ timezone: Asia/Tokyo
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: HomeLab Docs                       # the main title
+title: HomeLab and Language Learning                          # the main title
 
-tagline: A Doc site for my homelab  # it will display as the sub-title
+tagline: A Doc site for my homelab and language learning journey  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A Doc site for my homelab
+  A Doc site for my homelab and language learning journey
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://secretbaboy.github.io'
@@ -43,7 +43,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/secretbaboy       # change to your github homepage
+    - https://github.com/username       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
